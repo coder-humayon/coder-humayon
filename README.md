@@ -32,7 +32,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-humayon&layout=compact&theme=tokyonight"/>
 </p>
 
---
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=coder-humayon&theme=tokyonight" />
+</p>
 
 ---
 

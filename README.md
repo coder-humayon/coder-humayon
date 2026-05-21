@@ -1,7 +1,5 @@
 <div align="">
-
 # Frontend Developer 🚀
-## ⚡ Skills
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=HTML5;CSS3;JavaScript;React;Tailwind+CSS" />
 

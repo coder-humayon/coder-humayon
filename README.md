@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. Intro -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Md+Humayun+Kabir" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Md+Humayun+Kabir;jwuig" />
 
 <!-- 2. Role -->
 <br>

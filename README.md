@@ -2,32 +2,6 @@
 
 # Frontend Developer 🚀
 
-<img src="https://github.com/yourusername/yourrepo/blob/main/banner.png" width="85%" />
+<img src="https://github.com/yourusername/yourrepo/blob/main/banner.png" width="95%" height="260"/>
 
 </div>
-
-## 👋 Hi, I'm Humayun Kabir
-
-💻 Frontend Developer  
-🚀 Learning React & JavaScript  
-🎯 Future Web Developer  
-
----
-
-## 🛠 Skills
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github" />
-</p>
-
----
-
-## 🌐 Connect
-
-<a href="https://github.com/yourusername">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://facebook.com/yourusername">
-<img src="https://img.icons8.com/color/48/facebook-new.png" width="40"/>
-</a>

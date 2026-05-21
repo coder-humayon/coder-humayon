@@ -5,13 +5,13 @@
 <table>
 <tr>
 
-<td width="52%" valign="top">
+<td width="55%" align="left">
 
 ### 👋 Hi, I'm Humayun
 
 💻 Frontend Developer  
-🚀 Learning React & JavaScript  
-🔥 Love Clean UI Design  
+🚀 React Learner  
+🔥 Clean UI Designer  
 🎯 Future Full Stack Developer  
 
 <br>
@@ -19,21 +19,22 @@
 ### ⚡ Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html" width="45"/>
-<img src="https://skillicons.dev/icons?i=css" width="45"/>
-<img src="https://skillicons.dev/icons?i=js" width="45"/>
-<img src="https://skillicons.dev/icons?i=react" width="45"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" width="45"/>
-<img src="https://skillicons.dev/icons?i=git" width="45"/>
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=react" />
+<br>
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
 </p>
 
 </td>
 
-<td width="48%">
+<td width="45%" align="center">
 
-<img src="https://github.com/yourusername/yourrepo/blob/main/MANSUR.png" width="100%" />
+<img src="https://github.com/yourusername/yourrepo/blob/main/MANSUR.png" width="320"/>
 
 </td>
 

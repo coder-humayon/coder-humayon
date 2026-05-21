@@ -1,13 +1,10 @@
 <div align="center">
-
 # Hi I'm Md Humayun Kabir
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Web+Frontend+Developer" />
 
 </div>
-
 ---
-
 <div align="center">
 
 <img 
@@ -15,8 +12,6 @@ src="https://github.com/user-attachments/assets/1b112e6e-cb47-492a-a02c-4cb73c9f
 width="85%" />
 
 </div>
-
----
 
 ## ⚡ Skills
 

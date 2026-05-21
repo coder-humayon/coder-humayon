@@ -1,61 +1,52 @@
-<h1 align="center">Hi 👋, I'm Humayun Kabir</h1>
-<h3 align="center">Frontend Developer | React Developer | Passionate Coder from Bangladesh 🇧🇩</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Things" />
-</p>
+# Frontend Developer 🚀
 
----
+<img src="https://github.com/yourusername/yourrepo/blob/main/banner.png" width="100%" />
 
-## 🚀 About Me
+</div>
 
-- 🌱 I’m currently learning **React JS & Tailwind CSS**
-- 💻 I love building **modern responsive websites**
-- 🎯 Goal: Become a **Full Stack Developer**
-- ⚡ Fun fact: I love coding and designing UI
+## 👋 Hi, I'm Humayun Kabir
+💻 Passionate Frontend Developer  
+🚀 Learning React & JavaScript  
+🎯 Goal: Become a Professional Web Developer  
 
 ---
 
-## 🛠️ Skills
+## 🛠 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Learning
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coder-humayon&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-humayon&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=coder-humayon&theme=tokyonight" />
-</p>
+- React JS
+- Tailwind CSS
+- Firebase
+- Responsive Design
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
-<a href="https://github.com/coder-humayon" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://github.com/yourusername">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://facebook.com/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=facebook" height="40" />
+<a href="https://facebook.com/yourusername">
+<img src="https://img.icons8.com/color/48/facebook-new.png"/>
+</a>
+
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 </p>
 
 ---
 
-<p align="center">
-  💙 Thanks for visiting my profile 💙
-</p>
+## ⚡ Fun Fact
+✨ I love building modern and clean websites.

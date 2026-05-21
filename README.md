@@ -1,33 +1,42 @@
 <div align="center">
 
-<h1>Frontend Developer 🚀</h1>
+# Frontend Developer 🚀
 
-<img src="https://github.com/yourusername/yourrepo/blob/main/MANSUR.png" width="100%" />
+<table>
+<tr>
 
-</div>
+<td width="50%">
 
-<br>
+<h2>👋 Hi, I'm Humayun</h2>
 
-## 👋 Hi, I'm Humayun Kabir
-
-💻 Frontend Developer  
-🚀 Learning React & JavaScript  
-🔥 Passionate About Web Design  
+💻 Frontend Developer <br>
+🚀 Learning React & JavaScript <br>
+🔥 Passionate About Web Design <br>
+🎯 Future Full Stack Developer <br>
 
 <br>
 
 ## 🛠 Skills
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
-</p>
-
-<br>
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/yourusername">
+<p>
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
-</a>
 </p>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github.com/yourusername/yourrepo/blob/main/MANSUR.png" width="100%" />
+
+</td>
+
+</tr>
+</table>
+
+</div>

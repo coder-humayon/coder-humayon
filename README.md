@@ -13,39 +13,12 @@
 
 </div>
 
-<style>
-.skills-wrapper {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-  align-items: flex-start;
-}
+## ⚡ Skills
 
-.skill {
-  padding: 10px 18px;
-  background: linear-gradient(90deg, #00c6ff, #0072ff);
-  color: white;
-  border-radius: 8px;
-  font-weight: bold;
-
-  transform: translateX(-100%);
-  opacity: 0;
-  animation: slideIn 1s forwards;
-}
-
-/* one by one delay */
-.skill:nth-child(1) { animation-delay: 0.2s; }
-.skill:nth-child(2) { animation-delay: 0.6s; }
-.skill:nth-child(3) { animation-delay: 1s; }
-.skill:nth-child(4) { animation-delay: 1.4s; }
-.skill:nth-child(5) { animation-delay: 1.8s; }
-
-@keyframes slideIn {
-  to {
-    transform: translateX(0);
-    opacity: 1;
-  }
-}
-</style>
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
 
 </div>

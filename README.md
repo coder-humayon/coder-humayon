@@ -15,10 +15,4 @@
 
 ## ⚡ Skills
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
-![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
-
 </div>

@@ -1,4 +1,4 @@
-<div >
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines= Hi I'am Humaun kabir ;Wev Frontend Developer; HTML5;CSS3;JavaScript;React;Tailwind+CSS" />
 
